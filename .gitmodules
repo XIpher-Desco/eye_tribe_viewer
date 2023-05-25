@@ -1,0 +1,3 @@
+[submodule "peyetribe"]
+	path = peyetribe
+	url = https://github.com/XIpher-Desco/peyetribe.git
